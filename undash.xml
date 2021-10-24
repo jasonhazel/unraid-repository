@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/jasonhazel/UNDASH/master/undash.plg</PluginURL>
+<PluginAuthor>Jason Hazel</PluginAuthor>
+<Beta>True</Beta>
+<Category>Productivity: Tools</Category>
+<Name>UNDASH</Name>
+<Description>
+An opinionated custom dashboard for Unraid.
+</Description>
+<Date>2021-10-23</Date>
+<Support>https://github.com/jasonhazel/UNDASH/issues</Support>
+<Icon>https://github.com/jasonhazel/unraid-repository/raw/master/undash.png</Icon>
+</Containers>
